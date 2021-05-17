@@ -14,7 +14,7 @@ Python 3.6+, pip install selenium, pip install chromedriver
 As shown on Line 11 of KahootBot.py, the first step is to set the chromedriver variable to the path of chromedriver.exe. In my case, chromedriver.exe is in my downloads folder, hence the path seen on Line 11:
 "C:/Users/Abhi/Downloads/chromedriver_win32/chromedriver.exe"
 
-Upon running KahootBot.py, the user will be prompted to enter the game code (Kahoot Game PIN) and the nickname. If the user enters "Abhi" as the nickname, the bots will be named "Abhi1", "Abhi2 etc.
+Upon running KahootBot.py, the user will be prompted to enter the game code (Kahoot Game PIN) and the nickname. If the user enters "Bot" as the nickname, the bots will be named "Bot1", "Bot2 etc.
 
 After entering the game code and nickname, 5 chrome tabs will pop up and proceed to join the Kahoot Game. Once the game starts, the user will be prompted to enter their choice for each question*.
 
